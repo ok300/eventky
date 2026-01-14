@@ -388,7 +388,7 @@ Comprehensive end-to-end test scenarios for validating Eventky functionality.
    - Description: "Testing Pubky integration"
    - Color: `#FF5733`
    - Authors: User B (author)
-   - Save and note Calendar ID
+   - Save and note Calendar ID (the part of the URL after the last slash)
 
 2. **Verify Homeserver Storage**
    - Open [pubky.observer](https://pubky.observer)
